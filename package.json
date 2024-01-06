@@ -1,0 +1,16 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "upgardableweb use full utils for string generation clickawaylistener and string validator etc...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "clickwayalister",
+    "string genrator",
+    "validator"
+  ],
+  "author": "Bharat",
+  "license": "MIT"
+}
